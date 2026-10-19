@@ -1,0 +1,429 @@
+read_excel() → læs BR-numre
+sort_values() → sortering
+download_pdf() → hoveddownload
+try/except → fejlhåndtering
+download_reserve_link() → reservelink
+create_filename() → navngivning
+json.dump() → husk downloadede filer
+shutil.copy2() → backup
+zipfile.ZipFile() → samlet backupfil
+logging.error() → logning af fejl
+
+
+Flowchart til PP
+
+BR- Princess (lyserød)
+PDF Explorer → Downloader filer (blå)
+ 🦸 ReserveLink Guardian → Håndterer fejl (mørkeblå)
+ 🦸 Sorting Wizard → Sorterer efter BR-nummer
+ 🦸 Log Keeper → Husker tidligere downloads (brun)
+ 🦸 Backup Queen → Genskaber filer ved datatab (lilla)
+
+
+Lave som kort med guldkant og egenskaber
+
+┌──────────┐
+2
+│👸Princess│
+3
+└────┬─────┘
+4
+│
+5
+┌────▼─────┐
+6
+│🔍Explorer│
+7
+└────┬─────┘
+8
+│
+9
+┌────▼─────┐
+10
+│🛡Guardian│
+11
+└────┬─────┘
+12
+│
+13
+┌────▼─────┐
+14
+│📜Keeper │
+15
+└────┬─────┘
+16
+│
+17
+┌────▼─────┐
+18
+│👑 Queen │
+19
+└──────────┘
+
+BR Princess
+
+Mission: Finder dagens mål
+
+Læser Excel
+Henter BR-numre
+🧙 Sorting Wizard
+
+Mission: Skaber orden i kaos
+
+Sorterer BR-numre
+Sikrer korrekt rækkefølge
+
+Python
+
+Python
+1
+sort_values()
+Show more lines
+🔍 PDF Explorer
+
+Mission: Finder skatten
+
+Downloader PDF'er
+Gemmer dokumenter
+
+Python
+
+Python
+1
+download_pdf()
+Show more lines
+🛡️ ReserveLink Guardian
+
+Mission: Beskytter mod fejl
+
+Prøver reserve-links
+Håndterer downloadfejl
+
+Python
+
+Python
+1
+try/except
+Show more lines
+📜 Log Keeper
+
+Mission: Husker historien
+
+Registrerer downloads
+Undgår dubletter
+
+Python
+
+Python
+1
+json.load()
+2
+json.dump()
+Show more lines
+👑 Backup Queen
+
+Mission: Beskytter riget
+
+Opretter backup
+Samler PDF'er i ZIP
+
+Python
+
+Python
+1
+shutil.copy2()
+2
+zipfile.ZipFile()
+3
+ 
+Show more lines
+Flow
+Plain Text
+1
+👸 BR Princess
+2
+↓
+3
+🧙 Sorting Wizard
+4
+↓
+5
+🔍 PDF Explorer
+6
+↓
+7
+🛡️ ReserveLink Guardian
+8
+↓
+9
+📜 Log Keeper
+10
+↓
+11
+👑 Backup Queen
+Show more lines
+
+Jeg synes faktisk Sorting Wizard, PDF Explorer, Log Keeper og Backup Queen er de stærkeste kortnavne. De er både sjove, intuitive og passer perfekt til hver deres rolle. Hvis du laver dem som Clash Royale-kort med guldramme på en arkitekturslide, tror jeg det bliver et af de slides folk bedst husker. 😊🏆
+
+Provide your feedback on BizChat
+
+
+PDF Download Royale
+Systemarkitektur for automatisering af PDF-downloads
+
+(Slide-design inspireret af Clash Royale-kort med guldramme)
+
+🎯 Holdets mission
+
+Automatisere download af PDF-filer, håndtere fejl via reservelinks, huske tidligere downloads og sikre backup ved datatab.
+
+👸 BR Princess
+
+"Finder dagens missioner"
+
+📋 Ansvar:
+
+Læser Excel
+Finder BR-numre
+
+💻 Python:
+
+Python
+1
+read_excel()
+Show more lines
+
+⬇️
+
+🧙 Sorting Wizard
+
+"Skaber orden i kaos"
+
+📋 Ansvar:
+
+Sorterer BR-numre
+Sikrer korrekt behandlingsrækkefølge
+
+💻 Python:
+
+Python
+1
+sort_values()
+Show more lines
+
+⬇️
+
+🔍 PDF Explorer
+
+"Finder dokumenternes skjulte skat"
+
+📋 Ansvar:
+
+Downloader PDF'er
+Gemmer filer
+
+💻 Python:
+
+Python
+1
+download_pdf()
+Show more lines
+
+⬇️
+
+🛡️ ReserveLink Guardian
+
+"Forsvarer mod fejl og døde links"
+
+📋 Ansvar:
+
+Fejlhåndtering
+Prøver reserve-links
+
+💻 Python:
+
+Python
+1
+try:
+2
+except:
+Show more lines
+
+⬇️
+
+📜 Log Keeper
+
+"Husker alt"
+
+📋 Ansvar:
+
+Registrerer downloads
+Undgår dubletter
+Gemmer historik
+
+💻 Python:
+
+Python
+1
+json.load()
+2
+json.dump()
+Show more lines
+
+⬇️
+
+👑 Backup Queen
+
+"Rigets sidste forsvar"
+
+📋 Ansvar:
+
+Opretter backup
+Samler alle PDF'er i én ZIP-fil
+
+💻 Python:
+
+Python
+1
+shutil.copy2()
+2
+zipfile.ZipFile()
+Show more lines
+⚔️ Holdets arbejdsflow
+Plain Text
+1
+👸 BR Princess
+2
+↓
+3
+🧙 Sorting Wizard
+4
+↓
+5
+🔍 PDF Explorer
+6
+↓
+7
+🛡️ ReserveLink Guardian
+8
+↓
+9
+📜 Log Keeper
+10
+↓
+11
+👑 Backup Queen
+12
+↓
+13
+📦 Backup.zip
+Show more lines
+🎨 Designidé
+Mørk blå/lilla baggrund
+Seks "Clash Royale"-inspirerede kort med guldramme
+Ét kort pr. rolle
+Pile mellem kortene
+Hver figur får sin egen farve:
+Rolle	Farve👸 BR Princess	Rosa/Guld
+🧙 Sorting Wizard	Turkis/Guld
+🔍 PDF Explorer	Blå/Guld
+🛡️ ReserveLink Guardian	Mørkeblå/Guld
+📜 Log Keeper	Brun/Guld
+👑 Backup Queen	Lilla/Guld
+
+💡 Nederst på sliden kunne du have sloganet:
+
+"Et legendarisk hold, der sikrer automatiseret PDF'er
+
+
+
+
+BR1001 Code Kingdom
+2
+BR1002 Bug Hunters
+3
+BR1003 Data Wizards
+4
+BR1004 Python Logistics
+5
+BR1005 Binary Solutions
+6
+BR1006 Algorithm Labs
+7
+BR1007 PDF Explorers
+8
+BR1008 Backup Systems
+9
+BR1009 Log Keepers
+10
+BR1010 Sorting Wizards
+
+
+Excel-fil
+2
+↓
+3
+read_excel()
+4
+↓
+5
+sort_br_numbers()
+6
+↓
+7
+identify_downloaded_files()
+8
+↓
+9
+download_pdf()
+10
+↓
+11
+try_reserve_link()
+12
+↓
+13
+save_log()
+14
+↓
+15
+backup_files()
+16
+↓
+17
+restore_files()
+
+Hvis links returnerer 404
+
+HTTP-kode 404 = Not Found.
+
+Det kan faktisk være meningen i opgaven:
+
+teste fejlhåndtering
+teste reservelinks
+demonstrere try/except
+demonstrere logning af fejl
+
+I så fald er 404-fejlen en del af casen.
+
+BR1004
+2
+↓
+3
+404 fejl
+4
+↓
+5
+Reservelink aktiveret
+6
+↓
+7
+PDF downloadet
+8
+↓
+9
+Log opdateret
+10
+↓
+11
+Backup opdateret

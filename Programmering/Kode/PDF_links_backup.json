@@ -1,0 +1,18 @@
+[
+  {
+    "br_number": "BR1021",
+    "row": 22,
+    "link": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/16092025/ac099961-fbfb-418d-852e-303e567600e1.pdf",
+    "file": "C:\\Users\\Michala Hammer\\Documents\\Michala\\Programmering\\PDF downloader\\Programmering\\Kode\\PDFs\\BR1021_ConcordEnviro_20261102.pdf",
+    "backup_status": "saved",
+    "backup_file": "C:\\Users\\Michala Hammer\\Documents\\Michala\\Programmering\\PDF downloader\\Programmering\\Kode\\PDF_backup\\BR1021_ConcordEnviro_20261102.pdf"
+  },
+  {
+    "br_number": "BR1024",
+    "row": 25,
+    "link": "https://www.kongehuset.dk/",
+    "file": "C:\\Users\\Michala Hammer\\Documents\\Michala\\Programmering\\PDF downloader\\Programmering\\Kode\\PDFs\\Test backup.pdf",
+    "backup_status": "skipped",
+    "backup_reason": "Filen er ikke en PDF: C:\\Users\\Michala Hammer\\Documents\\Michala\\Programmering\\PDF downloader\\Programmering\\Kode\\PDFs\\Test backup.pdf"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-13T16:36:56+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-13T16:48:51+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-13T16:53:38+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-13T16:58:37+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host",
+    "date": "2026-10-16T11:37:48+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host",
+    "date": "2026-10-16T11:38:07+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:02:10+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:02:40+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:26:16+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host",
+    "date": "2026-10-19T10:26:38+02:00"
+  },
+  {
+    "br_number": "BR1020",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:32:21+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host",
+    "date": "2026-10-19T10:32:42+02:00"
+  },
+  {
+    "br_number": "BR1020",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:39:59+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T10:40:29+02:00"
+  },
+  {
+    "br_number": "BR1020",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T11:14:14+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T11:14:44+02:00"
+  },
+  {
+    "br_number": "BR1020",
+    "link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T13:38:06+02:00"
+  },
+  {
+    "br_number": "BR1023",
+    "link": "https://www.mckinsey.com/NotFound.aspx",
+    "error_type": "TimeoutError: The read operation timed out",
+    "date": "2026-10-19T13:38:36+02:00"
+  }
+]
